@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu principal.unity
+    guid: d00351f2125000642b6320658066a7df
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/cuarto1.unity
+    guid: bd1fb1655a4828749b13a104f5464b4e
+  - enabled: 1
+    path: Assets/Scenes/pasillo1.unity
+    guid: f5b9155b7a9c37346aef0ece401ab00d
+  - enabled: 1
+    path: Assets/Scenes/exterior.unity
+    guid: d7929cad4a3bc1648b340eb10a041f52
+  - enabled: 1
+    path: Assets/Scenes/cuarto2.unity
+    guid: 5b183045160893b4c91c61503d2d387e
+  - enabled: 1
+    path: Assets/Scenes/creditos.unity
+    guid: c0131bae1de8f3c4ebcb01baf0e8071e
+  - enabled: 1
+    path: Assets/Scenes/cuartoturbio1.unity
+    guid: c4bcf1563ccadd0488baace4f75f3e06
+  - enabled: 1
+    path: Assets/Scenes/cuartoturbio2.unity
+    guid: 9ef457c645182ec41a944845f8ee1c54
+  - enabled: 1
+    path: Assets/Scenes/cuartoturbio3.unity
+    guid: 3a08d88b8b221c24a81c6649962a251f
+  - enabled: 1
+    path: Assets/Scenes/dimensionojos.unity
+    guid: 74454e577cf0cea4fb225124b8869428
+  - enabled: 1
+    path: Assets/Scenes/options.unity
+    guid: 2829ce116f228a241ab033c17e243232
+  - enabled: 1
+    path: Assets/Scenes/pasilloojos.unity
+    guid: 48aae26a58f6c4d42a9f28d23dc271a5
+  - enabled: 1
+    path: Assets/Scenes/cuarto3.unity
+    guid: 40c5e3cffa3942448b142e09bb09fe72
+  - enabled: 1
+    path: Assets/Scenes/pasillo2.unity
+    guid: 5fad5b5ab1fd90446bb139f0a43376fc
+  - enabled: 1
+    path: Assets/Scenes/persecucion.unity
+    guid: f008a0d73dff4a9428e2b7e89c8c97a6
+  m_configObjects: {}

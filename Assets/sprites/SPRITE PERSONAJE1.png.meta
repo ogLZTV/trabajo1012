@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: e7834dbdfd9c6eb4fb4cb4d4219a0600
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPRITE PERSONAJE1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148.75
+        width: 33
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cd9ad5bcfc5ac4eb298b1a5790c960
+      internalID: -199959041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE PERSONAJE1_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 148.75
+        width: 33
+        height: 48.25
+      alignment: 9
+      pivot: {x: 0.47373432, y: 0.45808372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca8b96d6fd326d45bf6ec086e1f497a
+      internalID: 319150807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE PERSONAJE1_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 148.75
+        width: 33
+        height: 48.25
+      alignment: 9
+      pivot: {x: 0.4387133, y: 0.47604796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1823410f3d669d440a72735114b19419
+      internalID: -1266083601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE PERSONAJE1_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 149
+        width: 33
+        height: 48
+      alignment: 9
+      pivot: {x: 0.40369254, y: 0.46990395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7360651fa83df49ac2700a42d8be74
+      internalID: 169650530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE PERSONAJE1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99.75
+        width: 33
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b40c56195c670448aad0a29f95407a
+      internalID: -756248285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE PERSONAJE1_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 99.75
+        width: 33
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482618686b58e424396cde3078715544
+      internalID: 915474418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE PERSONAJE1_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 99.75
+        width: 33
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4669b30608790dd4487129f57ffae4cd
+      internalID: 1931482103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE PERSONAJE1_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 99
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e36d8eeaed117f4788298f08cf4c64f
+      internalID: 2085939793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE PERSONAJE1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50.75
+        width: 33
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599acbc3574b8fc45b6802ff2116f4f0
+      internalID: -1271718977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE PERSONAJE1_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 51
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc811870fac0884e88e8212005e82fb
+      internalID: -625718361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE PERSONAJE1_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 50.75
+        width: 33
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e035641331350c744824d10f60e84c1c
+      internalID: 305636007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE PERSONAJE1_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 50.75
+        width: 33
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cb9240b849fc747ad37032bbcda179
+      internalID: -859409787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE PERSONAJE1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 33
+        height: 48
+      alignment: 9
+      pivot: {x: 0.48248938, y: 0.5722308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ca97fbb3dd6ac4f82b260b15388c1f
+      internalID: -1975449232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE PERSONAJE1_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1.75
+        width: 33
+        height: 48.25
+      alignment: 9
+      pivot: {x: 0.4562237, y: 0.5598806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d0502fd76fd4343ae60a83a5e6ace0
+      internalID: 2073029571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE PERSONAJE1_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1.75
+        width: 33
+        height: 48.25
+      alignment: 9
+      pivot: {x: 0.429958, y: 0.595809}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b7b080ebf8107409e60f357c2b9831
+      internalID: 92757257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE PERSONAJE1_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2
+        width: 33
+        height: 48
+      alignment: 9
+      pivot: {x: 0.39493722, y: 0.5481538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2106fc8662c9cc645bf7343b1181b658
+      internalID: 1271613764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SPRITE PERSONAJE1_0: -199959041
+      SPRITE PERSONAJE1_1: 319150807
+      SPRITE PERSONAJE1_10: 305636007
+      SPRITE PERSONAJE1_11: -859409787
+      SPRITE PERSONAJE1_12: -1975449232
+      SPRITE PERSONAJE1_13: 2073029571
+      SPRITE PERSONAJE1_14: 92757257
+      SPRITE PERSONAJE1_15: 1271613764
+      SPRITE PERSONAJE1_2: -1266083601
+      SPRITE PERSONAJE1_3: 169650530
+      SPRITE PERSONAJE1_4: -756248285
+      SPRITE PERSONAJE1_5: 915474418
+      SPRITE PERSONAJE1_6: 1931482103
+      SPRITE PERSONAJE1_7: 2085939793
+      SPRITE PERSONAJE1_8: -1271718977
+      SPRITE PERSONAJE1_9: -625718361
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
