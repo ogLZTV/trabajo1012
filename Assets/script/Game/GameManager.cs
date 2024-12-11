@@ -28,4 +28,8 @@ public class GameManager : MonoBehaviour
     {
         PlayerPrefs.DeleteAll();
     }
+    public void Tiempo(float t)
+    {
+        Time.timeScale = t;
+    }
 }

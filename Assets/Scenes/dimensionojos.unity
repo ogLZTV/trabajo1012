@@ -3538,7 +3538,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f182233fc8b161c48adfe473f072caad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scene: pasillo2
+  scene: pasilloojos
   sfx: {fileID: 0}
 --- !u!61 &1199553932
 BoxCollider2D:

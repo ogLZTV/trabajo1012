@@ -3,12 +3,15 @@ using UnityEngine.SceneManagement;
 abstract public class Puerta : Interactive
 {
     public string scene;
-    protected virtual void AbrirPuerta()
+    protected void AbrirPuerta()
     {
         SceneManager.LoadScene(scene);
     }
-    protected virtual void AbrirPuerta(string a)
+    protected void AbrirPuerta(bool a)
     {
-        SceneManager.LoadScene(scene);
+        if(a==true)
+        {
+            SceneManager.LoadScene(scene);
+        }
     }
 }

@@ -7,7 +7,8 @@ public class EnemyController : MonoBehaviour
     private Transform positionPlayer;
 
     public float speed;
-
+    public float aceleration;
+    float acelerationInicial;
     private void Awake()
     {
         _componentRigidbody2D = GetComponent<Rigidbody2D>();
@@ -16,17 +17,21 @@ public class EnemyController : MonoBehaviour
     private void Start()
     {
         positionInitial = transform.position;
+        acelerationInicial = 1;
     }
 
     private void Update()
     {
+        acelerationInicial = Mathf.Clamp(acelerationInicial, 1, aceleration);
         if (positionPlayer != null)
         {
-            transform.position = Vector2.MoveTowards(transform.position, positionPlayer.position, speed * Time.deltaTime);
+            acelerationInicial += Time.deltaTime;
+            transform.position = Vector2.MoveTowards(transform.position, positionPlayer.position, speed*acelerationInicial * Time.deltaTime);
         }
         else
         {
-            transform.position = Vector2.MoveTowards(transform.position, positionInitial, speed * Time.deltaTime);
+            acelerationInicial -= Time.deltaTime;
+            transform.position = Vector2.MoveTowards(transform.position, positionInitial, speed*acelerationInicial * Time.deltaTime);
         }
     }
 

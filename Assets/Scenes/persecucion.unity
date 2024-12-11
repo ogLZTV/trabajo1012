@@ -1781,6 +1781,7 @@ MonoBehaviour:
   xmax: 16
   ymin: -8
   ymax: 8
+  direccion: 
 --- !u!50 &681689212
 Rigidbody2D:
   serializedVersion: 4
@@ -2092,7 +2093,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 3
-  aceleration: 10
+  aceleration: 5
 --- !u!58 &938351086
 CircleCollider2D:
   m_ObjectHideFlags: 0

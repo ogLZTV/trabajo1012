@@ -3,35 +3,36 @@ using UnityEngine;
 abstract public class Interactive : MonoBehaviour
 {
     protected bool interactive;
-    //protected void OnTriggerEnter2D(Collision2D collision)  
-    //{
-    //    if (collision.gameObject.tag == "Player")
-    //    {
-    //        interactive = true;
-    //    }
-    //}
-    //protected void OnTriggerExit2D(Collision2D collision)
-    //{
-    //    if (collision.gameObject.tag == "Player")
-    //    {
-    //        interactive = false;
-    //    }
-    //}
-protected void OnTriggerEnter2D(Collider2D collision)
+    protected GameObject player;
+    protected virtual void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.tag == "Player")
         {
-           interactive = true;
+            interactive = true;
         }
-
     }
-    protected void OnTriggerExit2D(Collider2D collision)
+    protected virtual void OnTriggerExit2D(Collider2D collision)
     {
-    if (collision.gameObject.tag == "Player")
+        if (collision.gameObject.tag == "Player")
+        {
+            interactive = false;
+        }
+    }
+    protected virtual void OnCollisionEnter2D(Collision2D collision)
     {
-        interactive = false;
+        if (collision.gameObject.tag == "Player")
+        {
+            interactive = true;
+            player = collision.gameObject;
+        }
+    }
+    protected virtual void OnCollisionExit2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Player")
+        {
+            interactive = false;
+        }
     }
 }
 
 
-}

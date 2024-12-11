@@ -14,7 +14,6 @@ public class CamareController : MonoBehaviour
     public float maxPositionY;
 
     public float timeToGetObjective;
-    private Vector3 velocity = Vector3.zero;
 
     private Vector3 realObjective;
 
@@ -28,6 +27,6 @@ public class CamareController : MonoBehaviour
 
         realObjective = new Vector3(targetX, targetY, -10);
 
-        transform.position = Vector3.SmoothDamp(transform.position, realObjective, ref velocity, timeToGetObjective);
+        transform.position = Vector3.MoveTowards(transform.position, realObjective, timeToGetObjective);
     }
 }

@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Game.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/cuarto1.unity
+    path: Assets/Scenes/Cuartos/cuarto1.unity
     guid: bd1fb1655a4828749b13a104f5464b4e
   - enabled: 1
     path: Assets/Scenes/pasillo1.unity
@@ -21,7 +21,7 @@ EditorBuildSettings:
     path: Assets/Scenes/exterior.unity
     guid: d7929cad4a3bc1648b340eb10a041f52
   - enabled: 1
-    path: Assets/Scenes/cuarto2.unity
+    path: Assets/Scenes/Cuartos/cuarto2.unity
     guid: 5b183045160893b4c91c61503d2d387e
   - enabled: 1
     path: Assets/Scenes/creditos.unity
@@ -45,7 +45,7 @@ EditorBuildSettings:
     path: Assets/Scenes/pasilloojos.unity
     guid: 48aae26a58f6c4d42a9f28d23dc271a5
   - enabled: 1
-    path: Assets/Scenes/cuarto3.unity
+    path: Assets/Scenes/Cuartos/cuarto3.unity
     guid: 40c5e3cffa3942448b142e09bb09fe72
   - enabled: 1
     path: Assets/Scenes/pasillo2.unity
