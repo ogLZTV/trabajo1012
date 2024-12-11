@@ -161,7 +161,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -261,6 +261,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (13)
@@ -330,6 +334,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (14)
@@ -429,7 +437,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -529,6 +537,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (17)
@@ -628,7 +640,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -728,6 +740,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (3)
@@ -797,6 +813,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (2)
@@ -866,6 +886,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (24)
@@ -935,6 +959,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (6)
@@ -1004,6 +1032,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (28)
@@ -1152,7 +1184,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.7108686, y: -0.21504998, z: -10}
+  m_LocalPosition: {x: -5.91, y: 1.76, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1214,7 +1246,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1345,7 +1377,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1514,7 +1546,7 @@ PrefabInstance:
     - target: {fileID: 7435459947731493639, guid: 2e65226ca7ceec245b7d94616aef2cb1, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 10306, guid: 0000000000000000f000000000000000, type: 0}
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 8799375905340948395, guid: 2e65226ca7ceec245b7d94616aef2cb1, type: 3}
       propertyPath: m_Name
       value: muroturbio (11)
@@ -1537,6 +1569,7 @@ GameObject:
   - component: {fileID: 681689212}
   - component: {fileID: 681689211}
   - component: {fileID: 681689215}
+  - component: {fileID: 681689216}
   m_Layer: 0
   m_Name: jugador
   m_TagString: Player
@@ -1561,7 +1594,6 @@ MonoBehaviour:
   xmax: 4.7
   ymin: -6.8
   ymax: 2.8
-  direccion: 
 --- !u!50 &681689212
 Rigidbody2D:
   serializedVersion: 4
@@ -1630,8 +1662,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 2
-  m_Sprite: {fileID: 7482667652216324306, guid: e0ffa127c2095c7418d5117b14af1821, type: 3}
-  m_Color: {r: 1, g: 0, b: 0, a: 1}
+  m_Sprite: {fileID: -1266083601, guid: e7834dbdfd9c6eb4fb4cb4d4219a0600, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -1650,8 +1682,8 @@ Transform:
   m_GameObject: {fileID: 681689210}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.8, y: 2.77, z: 0}
-  m_LocalScale: {x: 0.9770109, y: 0.9770109, z: 0.9770109}
+  m_LocalPosition: {x: -5.8, y: 1.68, z: 0}
+  m_LocalScale: {x: 4.1463366, y: 4.1463366, z: 4.1463366}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1893568183}
@@ -1689,19 +1721,40 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.020224616, y: 0.011556849}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    pivot: {x: 0.4387133, y: 0.47604796}
+    oldSize: {x: 0.33, y: 0.4825}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.33, y: 0.4825}
   m_EdgeRadius: 0
+--- !u!95 &681689216
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 681689210}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 5b2caa490b521a141928128fd72a4078, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &700155012
 GameObject:
   m_ObjectHideFlags: 0
@@ -1740,7 +1793,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1954,7 +2007,7 @@ Transform:
   m_GameObject: {fileID: 733695939}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7, y: -2, z: 0}
+  m_LocalPosition: {x: -7.38, y: -1.6300001, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1968,6 +2021,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (9)
@@ -2092,7 +2149,7 @@ PrefabInstance:
     - target: {fileID: 7435459947731493639, guid: 2e65226ca7ceec245b7d94616aef2cb1, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 10306, guid: 0000000000000000f000000000000000, type: 0}
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 8799375905340948395, guid: 2e65226ca7ceec245b7d94616aef2cb1, type: 3}
       propertyPath: m_Name
       value: muroturbio (7)
@@ -2165,7 +2222,7 @@ PrefabInstance:
     - target: {fileID: 7435459947731493639, guid: 2e65226ca7ceec245b7d94616aef2cb1, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 10306, guid: 0000000000000000f000000000000000, type: 0}
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 8799375905340948395, guid: 2e65226ca7ceec245b7d94616aef2cb1, type: 3}
       propertyPath: m_Name
       value: muroturbio (9)
@@ -2183,6 +2240,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (11)
@@ -2252,6 +2313,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (18)
@@ -2321,6 +2386,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (30)
@@ -2390,6 +2459,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (32)
@@ -2459,6 +2532,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (19)
@@ -2528,6 +2605,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (26)
@@ -2652,7 +2733,7 @@ PrefabInstance:
     - target: {fileID: 7435459947731493639, guid: 2e65226ca7ceec245b7d94616aef2cb1, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 10306, guid: 0000000000000000f000000000000000, type: 0}
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 8799375905340948395, guid: 2e65226ca7ceec245b7d94616aef2cb1, type: 3}
       propertyPath: m_Name
       value: muroturbio (8)
@@ -2670,6 +2751,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (27)
@@ -2739,6 +2824,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (20)
@@ -2922,7 +3011,7 @@ Transform:
   m_GameObject: {fileID: 1198255582}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -3.2333577, z: 0}
+  m_LocalPosition: {x: -0.3800001, y: -2.8633575, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2967,7 +3056,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3113,7 +3202,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3308,7 +3397,7 @@ PrefabInstance:
     - target: {fileID: 7435459947731493639, guid: 2e65226ca7ceec245b7d94616aef2cb1, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 10306, guid: 0000000000000000f000000000000000, type: 0}
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 8799375905340948395, guid: 2e65226ca7ceec245b7d94616aef2cb1, type: 3}
       propertyPath: m_Name
       value: muroturbio (12)
@@ -3326,6 +3415,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (15)
@@ -3395,6 +3488,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (33)
@@ -3464,6 +3561,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (4)
@@ -3533,6 +3634,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (12)
@@ -3602,6 +3707,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (34)
@@ -3671,6 +3780,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (35)
@@ -3740,6 +3853,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (8)
@@ -3864,7 +3981,7 @@ PrefabInstance:
     - target: {fileID: 7435459947731493639, guid: 2e65226ca7ceec245b7d94616aef2cb1, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 10306, guid: 0000000000000000f000000000000000, type: 0}
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 8799375905340948395, guid: 2e65226ca7ceec245b7d94616aef2cb1, type: 3}
       propertyPath: m_Name
       value: muroturbio (10)
@@ -3976,6 +4093,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (31)
@@ -4045,6 +4166,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (16)
@@ -4114,6 +4239,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (29)
@@ -4183,6 +4312,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (23)
@@ -4252,6 +4385,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (7)
@@ -4321,6 +4458,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (25)
@@ -4390,6 +4531,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (5)
@@ -4459,6 +4604,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (22)
@@ -4528,6 +4677,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (21)
@@ -4597,6 +4750,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo (10)
@@ -4658,6 +4815,103 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+--- !u!1001 &2118158816
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6031470979737656196, guid: 5dff26abc8799b9418cc8d88062fa185, type: 3}
+      propertyPath: m_Name
+      value: CanvasPausa
+      objectReference: {fileID: 0}
+    - target: {fileID: 8314529267181357510, guid: 5dff26abc8799b9418cc8d88062fa185, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8314529267181357510, guid: 5dff26abc8799b9418cc8d88062fa185, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8314529267181357510, guid: 5dff26abc8799b9418cc8d88062fa185, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8314529267181357510, guid: 5dff26abc8799b9418cc8d88062fa185, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8314529267181357510, guid: 5dff26abc8799b9418cc8d88062fa185, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8314529267181357510, guid: 5dff26abc8799b9418cc8d88062fa185, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8314529267181357510, guid: 5dff26abc8799b9418cc8d88062fa185, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8314529267181357510, guid: 5dff26abc8799b9418cc8d88062fa185, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8314529267181357510, guid: 5dff26abc8799b9418cc8d88062fa185, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8314529267181357510, guid: 5dff26abc8799b9418cc8d88062fa185, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8314529267181357510, guid: 5dff26abc8799b9418cc8d88062fa185, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8314529267181357510, guid: 5dff26abc8799b9418cc8d88062fa185, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8314529267181357510, guid: 5dff26abc8799b9418cc8d88062fa185, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8314529267181357510, guid: 5dff26abc8799b9418cc8d88062fa185, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8314529267181357510, guid: 5dff26abc8799b9418cc8d88062fa185, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8314529267181357510, guid: 5dff26abc8799b9418cc8d88062fa185, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8314529267181357510, guid: 5dff26abc8799b9418cc8d88062fa185, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8314529267181357510, guid: 5dff26abc8799b9418cc8d88062fa185, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8314529267181357510, guid: 5dff26abc8799b9418cc8d88062fa185, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8314529267181357510, guid: 5dff26abc8799b9418cc8d88062fa185, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5dff26abc8799b9418cc8d88062fa185, type: 3}
 --- !u!1001 &1500647263507308626
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4666,6 +4920,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2914526113857625696, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4830d2a58b0ace44198ae2dd9fb68b04, type: 2}
     - target: {fileID: 6618714582707488662, guid: 0cd57c62a967e0244b6abb640c3f612f, type: 3}
       propertyPath: m_Name
       value: pisorojo
@@ -4784,3 +5042,4 @@ SceneRoots:
   - {fileID: 172515547}
   - {fileID: 589388816}
   - {fileID: 1250456509}
+  - {fileID: 2118158816}

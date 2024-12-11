@@ -6,7 +6,8 @@ public class GameManager : MonoBehaviour
     private Vector2 newPosition;
     public string PositionX;
     public string PositionY;
-
+    public GameObject panel;
+    public float positionMinPanel;
     private void Start()
     {
         if (player != null)
@@ -15,6 +16,10 @@ public class GameManager : MonoBehaviour
             newPosition.y = PlayerPrefs.GetFloat(PositionY, player.transform.position.y);
             player.transform.position = newPosition;
         }
+        if (player.transform.position.x <= positionMinPanel)
+        {
+            panel.SetActive(true);
+        }
     }
     private void OnDestroy()
     {
@@ -22,7 +27,9 @@ public class GameManager : MonoBehaviour
         {
             PlayerPrefs.SetFloat(PositionX, player.transform.position.x);
             PlayerPrefs.SetFloat(PositionY, player.transform.position.y);
+            PlayerPrefs.Save();
         }
+
     }
     private void OnApplicationQuit()
     {

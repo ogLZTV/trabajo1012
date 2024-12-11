@@ -5,7 +5,7 @@ public class llave : Interactive
     Inventario inventario;
     public static Inventario operator +(Inventario inventario, llave llave)
     {
-        inventario.Add(llave.gameObject.name);
+        inventario.agregar(llave.gameObject.name);
         return inventario;
     }
     private void Update()

@@ -8,6 +8,7 @@ TagManager:
   - puertacuarto1
   - casillero
   - LimiteMonstruo
+  - enemy
   layers:
   - Default
   - TransparentFX

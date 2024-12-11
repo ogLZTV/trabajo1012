@@ -1,5 +1,5 @@
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 public class EnemyController : MonoBehaviour
 {
     private Rigidbody2D _componentRigidbody2D;
@@ -47,6 +47,13 @@ public class EnemyController : MonoBehaviour
         if (collision.gameObject.tag == "Player")
         {
             positionPlayer = collision.transform; 
+        }
+    }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Player")
+        {
+            SceneManager.LoadScene("pantallafinal");
         }
     }
 }

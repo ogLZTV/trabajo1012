@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 public class movimiento_player : MonoBehaviour
 {
     private Rigidbody2D _componentRigidbody2D;
-
+    private Animator animator;
     public float speed;
     private float horizontal;
     private float vertical;
@@ -19,11 +19,11 @@ public class movimiento_player : MonoBehaviour
     private float currentY;
 
 
-    public string direccion;
 
     void Awake()
     {
      _componentRigidbody2D = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
     }
 
     void Update()
@@ -34,6 +34,18 @@ public class movimiento_player : MonoBehaviour
         currentX = Math.Clamp(transform.position.x, xmin, xmax);
         currentY = Math.Clamp(transform.position.y, ymin, ymax);
         transform.position = new Vector2(currentX, currentY);
+        if (horizontal > 0)
+        {
+            animator.SetTrigger("Right");
+        }
+        else if(horizontal < 0)
+        {
+            animator.SetTrigger("Left");
+        }
+        else
+        {
+            animator.SetTrigger("Down");
+        }
 
     }
 
@@ -41,8 +53,17 @@ public class movimiento_player : MonoBehaviour
     {
         _componentRigidbody2D.velocity = new Vector2(horizontal * speed, vertical * speed);
     }
-   
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == ("enemy"))
+        {
+            SceneManager.LoadScene("pantalladerrota");
+        }
 
-    
+        
+    }
+
+
+
 
 }
